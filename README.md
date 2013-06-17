@@ -1,0 +1,1 @@
+This is a tool which generates simple F# code.  It was originally used to stress test Lewix/fsharp-refactor.  It could potentially be made more general purpose in the future, with the ability to generate strings from a grammar provided by the user.
