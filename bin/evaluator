@@ -1,0 +1,6 @@
+#!/bin/bash
+
+PREFIX=/mnt/media/git/fsharp_tools/code-generator/
+
+export MONO_PATH=$PREFIX/lib/
+mono $PREFIX/bin/Evaluator.exe "$@"
